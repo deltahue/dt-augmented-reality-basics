@@ -1,0 +1,11 @@
+<package>
+  <name>augmented_reality_basics</name>
+  <version>0.1.0</version>
+  <description>
+  Intro to AR
+  </description>
+  <maintainer email="helmd@ethz.ch">David Helm</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
